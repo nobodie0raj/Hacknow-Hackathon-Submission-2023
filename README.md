@@ -11,8 +11,28 @@
   
 
 # Format of README file
-* Team Name : [TEAM NAME]
-* Members Name : [Member 1] [Member 2] [Member 3] etc...
+* Team Name : Tech Titans
+* Members Name : Rajnand Bhardwaj, Kaustubh Saraf, Kartik Gile, Prince Mathukiya
 * Description : [Description]
 * Please add Steps : How to Run the Program with Commands.
 
+# Auction DApp - User Guide
+
+Welcome to the Auction DApp project! This guide will help you set up and run the decentralized auction application on your local machine.
+
+## Prerequisites
+
+Before you begin, make sure you have the following installed on your system:
+
+- Node.js and npm (Node Package Manager)
+- Truffle
+- Ganache (or any Ethereum-compatible blockchain network)
+- Web3.js
+
+## Steps to Run the Project
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/your-username/auction-dapp.git
+   cd auction-dapp
